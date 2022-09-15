@@ -27,13 +27,14 @@ header h3 {
     font-size: 105%;
 }
 .shadow{
-    2px 2px 2px rgb(128,0,0)
+    2px 2px 2px rgb(128,0,0);
 }
 #id{
     line-height: 1.5em;
 }
 p.copyright{
-    
+    text-align: center;
+    font-size: 80%;
 }
 
 
