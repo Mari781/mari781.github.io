@@ -20,6 +20,12 @@ header h2 {
 }
 image {
     float: left;
+    clear: left;
 }
+header h3 {
+    margin-top: 3em;
+    font-size: 105%;
+}
+
 
 
