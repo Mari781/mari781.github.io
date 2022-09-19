@@ -13,19 +13,19 @@ header h1{
     text-indent: 30px;
     
 }
-header h2 {
+header h2{
     font-size: 130%;
     color: #800000;
     text-indent: 30px;
 }
-image {
+image{
     float: left; 
 }
-main {
+main{
     clear: left;
 }
 
-header h3 {
+header h3{
     margin-top: 3em;
     font-size: 105%;
 }
