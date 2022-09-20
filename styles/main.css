@@ -47,15 +47,24 @@ header h3{
 .shadow{
     text-shadow: 2px 2px 2px rgb(128,0,0);
 }
+main div.contact{
+    margin: 1.5em 2em 0em 2em;
+}
 #list{
     line-height: 1.5em;
 }
+main nav{
+    font-size: 105%;
+    margin: 1.5em 2em 1.5em;
+    border: 5px dashed blue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px;
+    padding: 0.5em;
+}
+
 footer p.copyright{
     text-align: center;
     font-size: 80%;
-}
-main nav{
-    
 }
 
 
