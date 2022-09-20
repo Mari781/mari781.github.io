@@ -30,7 +30,8 @@ header h2{
     text-indent: 30px;
 }
 header img{
-    float: left; 
+    float: left;
+    margin-left: 10px;  
 }
 main{
     clear: left;
