@@ -1,7 +1,7 @@
 html{
     background-image: linear-gradient(to left, white 0%, #facd8a 100%);
-}
 
+}
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
@@ -37,6 +37,9 @@ header img{
 }
 .shadow{
     text-shadow: 2px 2px 2px rgb(128,0,0);
+}
+header{
+    border-bottom: 2px;
 }
 article{
     clear: left;
