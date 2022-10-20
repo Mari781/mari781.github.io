@@ -16,11 +16,13 @@
 html{
     background-image: linear-gradient(to left, white 0%, blue 100%);
 }
+header{
+    border-bottom: 2px solid blue;
+    padding-bottom: 2em;  
+}
 body{
     width: 95%;
     margin: 15px auto;
-    border-bottom: 2px solid blue;
-    padding-bottom: 2em;
     margin: 15px auto;
     padding: 15px 1.5em;
     border: 1px solid blue;
