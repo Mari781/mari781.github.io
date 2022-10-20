@@ -16,6 +16,12 @@ body{
     width: 95%;
     margin: 15px auto;
 }
+aside{
+    width: 20%;
+    float: right; 
+    padding: 0.1em 1em 1em;
+    background-color: lightblue;
+}
 aside ol{
     list-style-type:upper-roman;
 }
