@@ -24,6 +24,7 @@ article{
     clear: left;
 }
 article p::first-letter{
+    font-size: 1em;
     font-weight: bold;
     font-style: italic;
 }
