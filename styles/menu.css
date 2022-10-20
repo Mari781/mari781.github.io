@@ -12,7 +12,10 @@
     border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
-
+body{
+    width: 95%;
+    margin: 15px auto;
+}
 aside ol{
     list-style-type:upper-roman;
 }
@@ -23,6 +26,7 @@ aside ul{
 article{
     float: left;
     clear: left;
+    width: 75%;
 }
 article p::first-letter{
     font-size: 1em;
