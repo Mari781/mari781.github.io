@@ -30,5 +30,5 @@ article p::first-letter{
 }
 
 article img{
-    float: right
+    float: left;
 }
