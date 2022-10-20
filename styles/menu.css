@@ -19,3 +19,7 @@ aside ol{
 aside ul{
     list-style-type:square
 }
+
+article{
+    clear: left;
+}
