@@ -21,8 +21,8 @@ aside ul{
 }
 
 article{
-    clear: left;
     float: left;
+    clear: left;
 }
 article p::first-letter{
     font-size: 1em;
