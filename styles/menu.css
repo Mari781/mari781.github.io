@@ -16,7 +16,7 @@
 html{
     background-image: linear-gradient(to left, white 0%, blue 100%);
 }
-header{
+head{
     border-bottom: 2px solid blue;
     padding-bottom: 2em;  
 }
