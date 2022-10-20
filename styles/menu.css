@@ -13,11 +13,17 @@
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: yellow; }
 
+
 body{
     width: 95%;
     margin: 15px auto;
     border-bottom: 2px solid blue;
     padding-bottom: 2em;
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
 }
 aside{
     width: 20%;
