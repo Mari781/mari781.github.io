@@ -17,7 +17,8 @@ html{
 #nav_menu ul li a.current { color: yellow; }
 header{
     border-bottom: 2px solid blue;
-    padding-bottom: 4em;  
+    padding-bottom: 4em;
+    padding-top: 4em;  
 }
 body{
     width: 95%;
@@ -41,6 +42,12 @@ aside{
     float: right; 
     padding: 0.1em 1em 1em;
     background-color: lightblue;
+    width: auto;
+    position: relative;
+    bottom: 35%;
+    right: 0;
+    border: 3px solid blue;
+    padding: 2em;
 }
 aside ol{
     list-style-type:upper-roman;
