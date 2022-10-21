@@ -44,6 +44,7 @@ aside{
     float: right; 
     padding: 0.1em 1em 1em;
     background-color: lightblue;
+    border: 3px solid blue;
 }
 aside ol{
     list-style-type:upper-roman;
