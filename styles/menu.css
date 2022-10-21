@@ -42,10 +42,10 @@ article h2{
 aside{
     width: 20%;
     float: right; 
+    position: fixed;
     padding: 0.1em 1em 1em;
     background-color: lightblue;
     border: 3px solid blue; 
-    position: fixed;
     bottom: 35%;
     right: 0;
     padding: 2em;
