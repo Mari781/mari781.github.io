@@ -17,7 +17,7 @@ html{
 #nav_menu ul li a.current { color: yellow; }
 header{
     border-bottom: 2px solid blue;
-    padding-bottom: 2em;  
+    padding-bottom: 4em;  
 }
 body{
     width: 95%;
@@ -29,6 +29,13 @@ body{
     border-radius: 25px;
     box-shadow: 5px 5px 0px 0px;
 }
+article h1{
+    color: blue;
+}
+article h1{
+    color: blue;
+}
+
 aside{
     width: 20%;
     float: right; 
@@ -52,7 +59,7 @@ article{
     margin-left: 2em;
 }
 article p::first-letter{
-    font-size: 1em;
+    font-size: 2em;
     font-weight: bold;
     font-style: italic;
 }
