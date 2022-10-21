@@ -43,11 +43,11 @@ aside{
     width: 20%;
     float: right; 
     padding: 0.1em 1em 1em;
-    background-color: lightblue; 
+    background-color: lightblue;
+    border: 3px solid blue; 
     position: fixed;
     bottom: 35%;
     right: 0;
-    border: 3px solid blue;
     padding: 2em;
 }
 aside ol{
