@@ -41,10 +41,8 @@ article h2{
 aside{
     width: 20%;
     float: right; 
-    position: fixed;
     background-color: lightblue;
     border: 3px solid blue;
-    padding: 2em;
 }
 aside ol{
     list-style-type:upper-roman;
