@@ -1,5 +1,5 @@
 html{
-    background-image: linear-gradient(to left, white 0%, blue 100%);
+    background-image: linear-gradient(to left, white 0%, lightblue 100%);
 }
 #nav_menu ul { list-style-type: none; }
 #nav_menu ul li { float: left; }
@@ -21,6 +21,7 @@ head{
 }
 body{
     width: 95%;
+    background-color: white;
     margin: 15px auto;
     margin: 15px auto;
     padding: 15px 1.5em;
