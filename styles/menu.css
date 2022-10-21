@@ -41,6 +41,7 @@ article h2{
 aside{
     width: 20%;
     float: right; 
+    position: absolute;
     background-color: lightblue;
     bottom: 35%;
     right: 0;
