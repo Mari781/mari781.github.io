@@ -42,7 +42,7 @@ aside{
     width: 20%;
     float: right; 
     background-color: lightblue;
-    position: relative;
+    position: static;
     bottom: 35%;
     right: 0;
     border: 3px solid blue;
