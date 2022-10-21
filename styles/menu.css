@@ -43,7 +43,6 @@ aside{
     float: right; 
     background-color: lightblue;
     bottom: 35%;
-    right: 0;
     border: 3px solid blue;
     padding: 2em;
 }
