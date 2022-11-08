@@ -37,4 +37,6 @@ table.second thead tr:first-child{
 table.third tr, table.third tbody td {
     vertical-align: top;
 } 
-tr:first child, 
+table.third thead tr:first-child{
+    border-top:2px orangered;
+}
