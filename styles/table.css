@@ -53,5 +53,5 @@ table.third tr:last-child{
     border-bottom:2px solid orangered;
 }
 table.third thead{
-    background-color: lightgreen
+    background-color: lightgreen;
 }
