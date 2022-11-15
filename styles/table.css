@@ -39,6 +39,9 @@ table.third {
     border-collapse: collapse; 
     padding: 0.7em; 
 }
+table.third thead, table.third tbody{
+    padding: 0.7em;
+}
 table.third tbody tr, table.third tbody td {
     vertical-align: top;
 } 
