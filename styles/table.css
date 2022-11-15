@@ -44,6 +44,7 @@ table.third thead, table.third tbody{
 }
 table.third tbody tr, table.third tbody td {
     vertical-align: top;
+    padding: 0.7em;
 } 
 table.third thead tr:first-child{
     border-top:2px solid orangered;
