@@ -37,6 +37,7 @@ table.second thead tr:first-child{
 /*----------------------------*/
 table.third { 
     border-collapse: collapse; 
+    padding: 0.7em; 
 }
 table.third tbody tr, table.third tbody td {
     vertical-align: top;
