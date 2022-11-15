@@ -52,3 +52,6 @@ table.third thead tr:nth-child(2){
 table.third tr:last-child{
     border-bottom:2px solid orangered;
 }
+table.third thead{
+    background-color: lightgreen
+}
