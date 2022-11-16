@@ -39,7 +39,7 @@ table.third {
     border-collapse: collapse; 
 }
 
-table.third tr, table.third td {
+table.third tr, table.third td, table.third thead {
     vertical-align: top;
     padding: 0.7em;
 } 
