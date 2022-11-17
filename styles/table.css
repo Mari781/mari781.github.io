@@ -56,3 +56,13 @@ table.third tr:last-child{
 table.third thead{
     background-color: lightgreen;
 }
+
+@media only screen and (max-width: 425px) {
+    th, td {
+    display: block;
+    }
+    thead, td.number {
+    display: none;
+    padding: 0;
+    }
+}
