@@ -1,0 +1,81 @@
+html{
+    background-image: linear-gradient(to left, white 0%, lightblue 100%);
+}
+#nav_menu ul { list-style-type: none; }
+#nav_menu ul li { float: left; }
+#nav_menu ul li a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: block;
+    width: 175px;
+    padding: 1em 0;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-right: 2px solid white; }
+#nav_menu ul li a.lastitem { border-right: none; }
+#nav_menu ul li a.current { color: yellow; }
+header{
+    border-bottom: 5px solid blue;
+    padding-bottom: 4em;
+}
+body{
+    width: 95%;
+    background-color: white;
+    margin: 15px auto;
+    margin: 15px auto;
+    padding: 15px 1.5em;
+    border: 1px solid blue;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0px 0px;
+}
+article h1{
+    column-span: all;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+article h2{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+aside{
+    width: 20%;
+    position: fixed;
+    bottom: 35%;
+    right: 0;
+    padding: 0.1em 1em 1em;
+    background-color: lightblue;
+    border: 3px solid blue;
+}
+aside ol{
+    list-style-type:upper-roman;
+}
+aside ul{
+    list-style-type:square
+}
+
+article{
+    float: left;
+    clear: left;
+    width: 75%;
+    column-count: 3;
+    column-rule: 6px dotted blue;
+    column-gap: 2em;
+    margin-left: 2em;
+}
+article p::first-letter{
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+article img{
+    float: left;
+}
+footer{
+    clear: both;
+    border-top: 2px solid blue;
+    text-align:center;
+}
